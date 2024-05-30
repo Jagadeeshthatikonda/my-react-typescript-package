@@ -1,2 +1,2 @@
-export { default as CSSAnimationTransitionWrapper } from './CSSAnimationTransitionWrapper'
-export { default as useSwitchTransition } from './useSwitchTransition'
+export { default as CSSAnimationTransitionWrapper } from './CSSAnimationTransitionWrapper';
+export { default as useSwitchTransition } from './useSwitchTransition';
